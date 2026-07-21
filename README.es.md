@@ -8,6 +8,7 @@ Diseño y construyo sistemas digitales que integran inteligencia artificial, aut
 
 [LinkedIn](https://www.linkedin.com/in/raymond-arteaga-7a6523308) ·
 [UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system) ·
+[Laboratorio de Innovación CAF](https://github.com/lab-innov) ·
 [SILEX AI Consulting](https://github.com/silex-ai-consulting) ·
 [Read in English](./README.md)
 
@@ -19,7 +20,7 @@ Diseño y construyo sistemas digitales que integran inteligencia artificial, aut
 
 Soy Ingeniero en Informática egresado de la Universidad Católica Andrés Bello, con experiencia en IA aplicada, automatización empresarial, desarrollo full-stack, robótica, sistemas embebidos y tecnologías inmersivas.
 
-Mi trabajo ha incluido agentes institucionales de IA, soluciones sobre Microsoft 365, marketplaces internos, automatizaciones operativas, experiencias geoespaciales e inmersivas, productos web y el desarrollo de UCABot, mi Trabajo de Grado aprobado con mención honorífica.
+En el Laboratorio de Innovación de CAF he participado en agentes institucionales de IA, soluciones sobre Microsoft 365, marketplaces internos, automatizaciones operativas, formación digital, experiencias inmersivas e iniciativas de innovación. También soy fundador y Lead Developer de SILEX AI Consulting y autor de UCABot, mi Trabajo de Grado aprobado con mención honorífica.
 
 ## Áreas de trabajo
 
@@ -44,7 +45,36 @@ flowchart LR
 | Reconocimiento académico | Trabajo de Grado de Ingeniería Informática defendido el 17 de julio de 2026 y aprobado con mención honorífica |
 | Emprendimiento | Fundador y Lead Developer de SILEX AI Consulting |
 
-## Trabajo destacado
+## Experiencia profesional
+
+### Laboratorio de Innovación CAF
+
+Entre agosto de 2025 y julio de 2026 trabajé en iniciativas de IA aplicada, automatización, gestión del conocimiento e innovación inmersiva para distintas áreas institucionales.
+
+Entre mis contribuciones representativas se encuentran:
+
+- participación en más de 30 iniciativas de agentes institucionales;
+- desarrollo del marketplace interno de agentes en SharePoint;
+- automatizaciones end-to-end para pagos, contrataciones y horas adicionales;
+- sesiones sobre Copilot, prompting, creación de agentes e IA responsable;
+- virtualización de la sede CAF Caracas con Matterport y Captur3D;
+- pruebas, documentación, publicación y soporte operativo con equipos de negocio y tecnología.
+
+El perfil público de la organización se encuentra en [github.com/lab-innov](https://github.com/lab-innov). Sus repositorios operativos permanecen privados porque contienen trabajo institucional.
+
+### SILEX AI Consulting
+
+Fundé SILEX para desarrollar productos digitales, IA aplicada, automatización y experiencias web para organizaciones.
+
+Proyectos públicos seleccionados:
+
+- [SILEX Web](https://github.com/silex-ai-consulting/silex-web)
+- [Cerámica Carabobo](https://github.com/silex-ai-consulting/ceramica-carabobo)
+- [Arenera Solichiata](https://github.com/silex-ai-consulting/arenera-solichiata)
+
+[Abrir la organización SILEX](https://github.com/silex-ai-consulting)
+
+## Proyecto destacado
 
 ### UCABot — Sistema Automatizado de Reparto para Campus
 
@@ -56,19 +86,9 @@ Portafolio técnico bilingüe de un sistema ciberfísico distribuido que integra
 - firmware C/C++ para Arduino Mega;
 - prototipo físico fabricado en PETG.
 
+El Trabajo de Grado fue defendido el 17 de julio de 2026 y recibió mención honorífica.
+
 [Abrir el portafolio técnico de UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system)
-
-### SILEX AI Consulting
-
-SILEX es mi organización tecnológica para productos digitales, IA aplicada, automatización y experiencias web.
-
-Proyectos públicos seleccionados:
-
-- [SILEX Web](https://github.com/silex-ai-consulting/silex-web)
-- [Cerámica Carabobo](https://github.com/silex-ai-consulting/ceramica-carabobo)
-- [Arenera Solichiata](https://github.com/silex-ai-consulting/arenera-solichiata)
-
-[Abrir la organización SILEX](https://github.com/silex-ai-consulting)
 
 ## Capacidades técnicas
 
@@ -80,7 +100,8 @@ Proyectos públicos seleccionados:
 | Móvil y nube | Flutter, Firebase Authentication, Firestore |
 | Robótica y sistemas embebidos | Raspberry Pi, Arduino Mega, PlatformIO, GPS, encoders, sensores ultrasónicos, protocolos seriales |
 | Datos y visualización | Leaflet, React Leaflet, GeoJSON, OpenStreetMap, Recharts |
-| Flujo de ingeniería | Git, GitHub, GitFlow, ramas feature, pull requests, GitHub Actions, pruebas unitarias y end-to-end |
+| Tecnologías inmersivas | Matterport, Captur3D, Orbix 360 y SketchUp |
+| Flujo de ingeniería | Git, GitHub, GitLab, GitFlow, ramas feature, pull requests, GitHub Actions, Jira, pruebas unitarias y end-to-end |
 
 ## Enfoque de ingeniería
 
@@ -106,4 +127,5 @@ Me interesan oportunidades y colaboraciones relacionadas con:
 
 - LinkedIn: [linkedin.com/in/raymond-arteaga-7a6523308](https://www.linkedin.com/in/raymond-arteaga-7a6523308)
 - GitHub: [github.com/raymond311arteaga](https://github.com/raymond311arteaga)
-- Organización: [github.com/silex-ai-consulting](https://github.com/silex-ai-consulting)
+- Laboratorio de Innovación CAF: [github.com/lab-innov](https://github.com/lab-innov)
+- SILEX AI Consulting: [github.com/silex-ai-consulting](https://github.com/silex-ai-consulting)
