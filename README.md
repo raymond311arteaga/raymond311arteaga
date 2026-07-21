@@ -8,6 +8,7 @@ I design and build practical digital systems that connect artificial intelligenc
 
 [LinkedIn](https://www.linkedin.com/in/raymond-arteaga-7a6523308) ·
 [UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system) ·
+[CAF Innovation Lab](https://github.com/lab-innov) ·
 [SILEX AI Consulting](https://github.com/silex-ai-consulting) ·
 [Versión en español](./README.es.md)
 
@@ -19,7 +20,7 @@ I design and build practical digital systems that connect artificial intelligenc
 
 I am an Informatics Engineer from Universidad Católica Andrés Bello, with experience in applied AI, enterprise automation, full-stack development, robotics, embedded systems and immersive technologies.
 
-My work has included institutional AI agents, Microsoft 365 solutions, internal marketplaces, operational automations, geospatial and immersive experiences, web products and the development of UCABot, my Honorable Mention thesis project.
+At CAF's Innovation Lab, I have contributed to institutional AI agents, Microsoft 365 solutions, internal marketplaces, operational automations, digital training, immersive experiences and innovation initiatives. I am also the founder and Lead Developer of SILEX AI Consulting and the author of UCABot, my Honorable Mention thesis project.
 
 ## Areas of work
 
@@ -44,7 +45,36 @@ flowchart LR
 | Academic recognition | Informatics Engineering thesis defended on July 17, 2026 and awarded Honorable Mention |
 | Entrepreneurship | Founder and Lead Developer of SILEX AI Consulting |
 
-## Featured work
+## Professional work
+
+### CAF Innovation Lab
+
+From August 2025 to July 2026, I worked on applied AI, automation, knowledge management and immersive innovation initiatives for multiple institutional areas.
+
+Representative contributions include:
+
+- participation in more than 30 institutional AI-agent initiatives;
+- development of an internal agent marketplace in SharePoint;
+- end-to-end automations for payments, contracting and additional-hours processes;
+- Copilot, prompting, agent-building and responsible-AI sessions;
+- virtualization of CAF's Caracas headquarters with Matterport and Captur3D;
+- testing, documentation, publishing and operational support with business and technical teams.
+
+The public organization profile is available at [github.com/lab-innov](https://github.com/lab-innov). Its operational repositories remain private because they contain institutional work.
+
+### SILEX AI Consulting
+
+I founded SILEX to build digital products, applied AI, automation and web experiences for organizations.
+
+Selected public projects:
+
+- [SILEX Web](https://github.com/silex-ai-consulting/silex-web)
+- [Cerámica Carabobo](https://github.com/silex-ai-consulting/ceramica-carabobo)
+- [Arenera Solichiata](https://github.com/silex-ai-consulting/arenera-solichiata)
+
+[Open the SILEX organization](https://github.com/silex-ai-consulting)
+
+## Featured project
 
 ### UCABot — Automated Campus Delivery System
 
@@ -56,19 +86,9 @@ A bilingual technical portfolio for a distributed cyber-physical system that int
 - C/C++ firmware on Arduino Mega;
 - a PETG physical robot prototype.
 
+The thesis was defended on July 17, 2026 and received Honorable Mention.
+
 [Open the UCABot technical portfolio](https://github.com/raymond311arteaga/ucabot-automated-delivery-system)
-
-### SILEX AI Consulting
-
-SILEX is my technology organization for digital products, applied AI, automation and web experiences.
-
-Selected public projects:
-
-- [SILEX Web](https://github.com/silex-ai-consulting/silex-web)
-- [Cerámica Carabobo](https://github.com/silex-ai-consulting/ceramica-carabobo)
-- [Arenera Solichiata](https://github.com/silex-ai-consulting/arenera-solichiata)
-
-[Open the SILEX organization](https://github.com/silex-ai-consulting)
 
 ## Technical capabilities
 
@@ -80,7 +100,8 @@ Selected public projects:
 | Mobile and cloud | Flutter, Firebase Authentication, Firestore |
 | Robotics and embedded | Raspberry Pi, Arduino Mega, PlatformIO, GPS, encoders, ultrasonic sensors, serial protocols |
 | Data and visualization | Leaflet, React Leaflet, GeoJSON, OpenStreetMap, Recharts |
-| Engineering workflow | Git, GitHub, GitFlow, feature branches, pull requests, GitHub Actions, unit and end-to-end testing |
+| Immersive technologies | Matterport, Captur3D, Orbix 360 and SketchUp |
+| Engineering workflow | Git, GitHub, GitLab, GitFlow, feature branches, pull requests, GitHub Actions, Jira, unit testing and end-to-end testing |
 
 ## Engineering approach
 
@@ -106,4 +127,5 @@ I am interested in roles and collaborations involving:
 
 - LinkedIn: [linkedin.com/in/raymond-arteaga-7a6523308](https://www.linkedin.com/in/raymond-arteaga-7a6523308)
 - GitHub: [github.com/raymond311arteaga](https://github.com/raymond311arteaga)
-- Organization: [github.com/silex-ai-consulting](https://github.com/silex-ai-consulting)
+- CAF Innovation Lab: [github.com/lab-innov](https://github.com/lab-innov)
+- SILEX AI Consulting: [github.com/silex-ai-consulting](https://github.com/silex-ai-consulting)
