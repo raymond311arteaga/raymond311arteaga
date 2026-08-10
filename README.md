@@ -16,6 +16,29 @@ I design and build practical digital systems that connect artificial intelligenc
 
 ---
 
+## Technical snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Applied_AI-Agents_%26_Copilots-111827?style=for-the-badge" alt="Applied AI">
+  <img src="https://img.shields.io/badge/Automation-Microsoft_365-111827?style=for-the-badge" alt="Automation">
+  <img src="https://img.shields.io/badge/Software-Full--Stack_Systems-111827?style=for-the-badge" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/Robotics-Edge_%26_Embedded-111827?style=for-the-badge" alt="Robotics">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,nestjs,flutter,firebase,cpp,arduino,git,github&perline=13" alt="Core technologies">
+</p>
+
+| What I build | Representative technologies |
+|---|---|
+| 🤖 **Applied AI & enterprise agents** | Copilot, Copilot Studio, Python, prompting, responsible AI |
+| ⚙️ **Automation & digital operations** | Power Automate, SharePoint, Microsoft 365, Excel, Office Scripts, Power BI |
+| 💻 **Software systems** | TypeScript, React, Next.js, NestJS, Node.js, Flutter, Firebase, REST |
+| 🗺️ **Data & geospatial experiences** | SQL, GeoJSON, Leaflet, React Leaflet, OpenStreetMap, Recharts |
+| 🔧 **Robotics & embedded systems** | Raspberry Pi, Arduino Mega, C/C++, PlatformIO, GPS, encoders, serial protocols |
+
+---
+
 ## Professional profile
 
 I am an Informatics Engineer from Universidad Católica Andrés Bello, with experience in applied AI, enterprise automation, full-stack development, robotics, embedded systems and immersive technologies.
