@@ -72,6 +72,29 @@ Diseño y construyo sistemas prácticos que conectan inteligencia artificial, au
 
 ---
 
+## Resumen técnico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IA_aplicada-Agentes_%26_Copilots-111827?style=for-the-badge" alt="IA aplicada">
+  <img src="https://img.shields.io/badge/Automatización-Microsoft_365-111827?style=for-the-badge" alt="Automatización">
+  <img src="https://img.shields.io/badge/Software-Sistemas_full--stack-111827?style=for-the-badge" alt="Ingeniería de software">
+  <img src="https://img.shields.io/badge/Robótica-Edge_%26_Embebidos-111827?style=for-the-badge" alt="Robótica">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,nestjs,flutter,firebase,cpp,arduino,git,github&perline=13" alt="Tecnologías principales">
+</p>
+
+| Lo que construyo | Tecnologías representativas |
+|---|---|
+| 🤖 **IA aplicada y agentes empresariales** | Copilot, Copilot Studio, Python, prompting, IA responsable |
+| ⚙️ **Automatización y operaciones digitales** | Power Automate, SharePoint, Microsoft 365, Excel, Office Scripts, Power BI |
+| 💻 **Sistemas de software** | TypeScript, React, Next.js, NestJS, Node.js, Flutter, Firebase, REST |
+| 🗺️ **Datos y experiencias geoespaciales** | SQL, GeoJSON, Leaflet, React Leaflet, OpenStreetMap, Recharts |
+| 🔧 **Robótica y sistemas embebidos** | Raspberry Pi, Arduino Mega, C/C++, PlatformIO, GPS, encoders, protocolos seriales |
+
+---
+
 ## Perfil profesional
 
 Soy Ingeniero en Informática egresado de la **Universidad Católica Andrés Bello**, con experiencia en IA aplicada, automatización empresarial, desarrollo full-stack, sistemas geoespaciales, robótica, sistemas embebidos y tecnologías inmersivas.
