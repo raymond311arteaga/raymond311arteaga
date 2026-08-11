@@ -2,9 +2,9 @@
 
 # Raymond Arteaga
 
-### Informatics Engineer | Applied AI | Automation | Software Engineering | Robotics
+### Informatics Engineer | Applied AI & AI Agents | Automation | Software Engineering | Web & Mobile | Robotics
 
-I design and build practical systems that connect artificial intelligence, automation, software, data and physical computing.
+I design and build practical systems that connect enterprise AI agents, automation, full-stack web and mobile software, data and physical computing.
 
 [LinkedIn](https://www.linkedin.com/in/raymond-arteaga-7a6523308) · [UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system) · [CAF Innovation Lab](https://github.com/lab-innov) · [SILEX AI Consulting](https://github.com/silex-ai-consulting) · [Español](./README.es.md)
 
@@ -39,19 +39,36 @@ I design and build practical systems that connect artificial intelligence, autom
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/angularjs/angularjs-original.svg" width="42" height="42" alt="Angular" title="Angular">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" title="Flutter">&nbsp;&nbsp;
+<img src="./assets/stack/android.svg" width="42" height="42" alt="Android" title="Android">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" title="Firebase">&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" title=".NET">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" title=".NET">&nbsp;&nbsp;
+<img src="./assets/stack/tailwindcss.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;&nbsp;
+<img src="./assets/stack/vite.svg" width="42" height="42" alt="Vite" title="Vite">
 
 <br><br>
 
+<img src="./assets/stack/docker.svg" width="42" height="42" alt="Docker" title="Docker">&nbsp;&nbsp;
+<img src="./assets/stack/leaflet.svg" width="42" height="42" alt="Leaflet" title="Leaflet">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino" title="Arduino">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi" title="Raspberry Pi">&nbsp;&nbsp;
+<img src="./assets/stack/platformio.svg" width="42" height="42" alt="PlatformIO" title="PlatformIO">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">&nbsp;&nbsp;
 <img src="./assets/github-light.svg#gh-light-mode-only" width="42" height="42" alt="GitHub" title="GitHub">
 <img src="./assets/github-dark.svg#gh-dark-mode-only" width="42" height="42" alt="GitHub" title="GitHub">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/gitlab/gitlab-original.svg" width="42" height="42" alt="GitLab" title="GitLab">
 
 </div>
+
+## What I build
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>Enterprise AI Agents</strong><br>Copilot Studio, Microsoft 365 and workflow integration</td>
+<td align="center" width="25%"><strong>Full-Stack Software</strong><br>web products, APIs, backend services and modern frontends</td>
+<td align="center" width="25%"><strong>Mobile Applications</strong><br>Flutter and native Android experience</td>
+<td align="center" width="25%"><strong>Automation & Physical Systems</strong><br>business-process automation, Raspberry Pi, Arduino and robotics</td>
+</tr>
+</table>
 
 ## Selected impact
 
@@ -68,7 +85,7 @@ I design and build practical systems that connect artificial intelligence, autom
 
 ## Professional profile
 
-I am an Informatics Engineer from **Universidad Católica Andrés Bello**, with experience in applied AI, enterprise automation, full-stack development, geospatial systems, robotics, embedded systems and immersive technologies.
+I am an Informatics Engineer from **Universidad Católica Andrés Bello**, with experience in enterprise AI agents, applied AI, business-process automation, full-stack web development, mobile application development, geospatial and data systems, robotics, embedded systems and immersive technologies.
 
 My work spans institutional AI agents, Microsoft 365 solutions, operational automations, web and mobile products, data-driven experiences and cyber-physical systems. I am also the founder and Lead Developer of **SILEX AI Consulting** and the author of **UCABot**, my Honorable Mention thesis project.
 
@@ -122,11 +139,12 @@ The thesis was defended on **July 17, 2026** and received **Honorable Mention**.
 
 | Domain | Technologies and practices |
 |---|---|
-| **Applied AI and automation** | Copilot, Copilot Studio, Power Automate, SharePoint, Microsoft 365, Excel, Office Scripts, Power BI |
+| **Applied AI and automation** | Enterprise AI agents, Microsoft Copilot, Copilot Studio, Microsoft Power Platform, Power Automate, SharePoint, Microsoft 365, Excel, Office Scripts, Power BI |
 | **Languages** | TypeScript, JavaScript, Python, Dart, C/C++, Java, C#, SQL |
-| **Web and backend** | React, Next.js, Angular, NestJS, Node.js, .NET, REST, Swagger/OpenAPI |
-| **Mobile and cloud** | Flutter, Firebase Authentication, Firestore |
-| **Robotics and embedded** | Raspberry Pi, Arduino Mega, PlatformIO, GPS, encoders, ultrasonic sensors, serial protocols |
+| **Web and backend** | React, Next.js, Angular, NestJS, Node.js, .NET, ASP.NET Core, REST, Swagger/OpenAPI |
+| **Frontend UI, motion and tooling** | Tailwind CSS, Bootstrap, Framer Motion, GSAP, Lenis, Vite |
+| **Mobile and cloud** | Flutter (cross-platform mobile), Android (Java/XML), Android Studio, Firebase Authentication, Firestore |
+| **Robotics and embedded** | Raspberry Pi, Arduino Mega, PlatformIO, PySerial, GPS/NMEA, encoders, ultrasonic sensors, serial protocols |
 | **Data and visualization** | Leaflet, React Leaflet, GeoJSON, OpenStreetMap, Recharts |
 | **Immersive technologies** | Matterport, Captur3D, Orbix 360, SketchUp |
-| **Engineering workflow** | Git, GitHub, GitLab, GitFlow, feature branches, pull requests, GitHub Actions, Jira, unit and end-to-end testing |
+| **Engineering workflow** | Git, GitHub, GitLab, GitFlow, feature branches, pull requests, GitHub Actions, Jira, Docker, Docker Compose, Jest, Playwright, Supertest, ESLint, Prettier, unit and end-to-end testing |
