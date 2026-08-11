@@ -34,9 +34,9 @@ Diseño y construyo sistemas prácticos que conectan inteligencia artificial, au
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">&nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000">
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="42" height="42" alt="Next.js" title="Next.js">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/nextjs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/nextjs-light.svg">
+  <img src="./assets/nextjs-light.svg" width="42" height="42" alt="Next.js" title="Next.js">
 </picture>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS">&nbsp;&nbsp;
@@ -51,9 +51,9 @@ Diseño y construyo sistemas prácticos que conectan inteligencia artificial, au
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi" title="Raspberry Pi">&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">&nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" title="GitHub">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-light.svg">
+  <img src="./assets/github-light.svg" width="42" height="42" alt="GitHub" title="GitHub">
 </picture>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/gitlab/gitlab-original.svg" width="42" height="42" alt="GitLab" title="GitLab">
 
