@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Raymond Arteaga — Informatics Engineer</title>
+<desc id="desc">Animated professional banner highlighting Applied AI and Enterprise Agents, Automation and Digital Operations, Software Engineering, and Robotics and Embedded Systems through synchronized text and network nodes.</desc>
+<defs>
+  <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0B0F14"/><stop offset="48%" stop-color="#0F1620"/><stop offset="100%" stop-color="#0B0F14"/></linearGradient>
+  <radialGradient id="glowBlue"><stop offset="0%" stop-color="#4DA3FF" stop-opacity=".30"/><stop offset="100%" stop-color="#4DA3FF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowViolet"><stop offset="0%" stop-color="#7C6CFF" stop-opacity=".24"/><stop offset="100%" stop-color="#7C6CFF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#4DA3FF" stop-opacity="0"/><stop offset="50%" stop-color="#4DA3FF" stop-opacity=".42"/><stop offset="100%" stop-color="#7C6CFF" stop-opacity="0"/></linearGradient>
+  <filter id="blur24" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
+  <filter id="blur8" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+  <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000000" flood-opacity=".32"/></filter>
+  <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#17212E" stroke-width="1"/></pattern>
+  <clipPath id="clip"><rect x="16" y="16" width="1168" height="328" rx="30"/></clipPath>
+  <style><![CDATA[
+    .root{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+    .ambient-a{animation:ambientA 18s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}
+    .ambient-b{animation:ambientB 23s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}
+    @keyframes ambientA{from{transform:translate(-34px,22px) scale(.94);opacity:.68}to{transform:translate(84px,-28px) scale(1.14);opacity:1}}
+    @keyframes ambientB{from{transform:translate(24px,-16px) scale(.96);opacity:.70}to{transform:translate(-86px,38px) scale(1.18);opacity:.96}}
+    .scan{animation:scan 8s cubic-bezier(.4,0,.2,1) infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes scan{0%{transform:translateX(-520px) rotate(12deg);opacity:0}16%{opacity:.46}62%{opacity:.32}100%{transform:translateX(1480px) rotate(12deg);opacity:0}}
+    .focus{opacity:0;transform-box:fill-box;transform-origin:left center}
+    .focus1{animation:focus1 20s cubic-bezier(.4,0,.2,1) infinite}.focus2{animation:focus2 20s cubic-bezier(.4,0,.2,1) infinite}.focus3{animation:focus3 20s cubic-bezier(.4,0,.2,1) infinite}.focus4{animation:focus4 20s cubic-bezier(.4,0,.2,1) infinite}
+    @keyframes focus1{0%,1%{opacity:0;transform:translateY(16px)}4%,20%{opacity:1;transform:translateY(0)}24%,100%{opacity:0;transform:translateY(-12px)}}
+    @keyframes focus2{0%,24%{opacity:0;transform:translateY(16px)}29%,45%{opacity:1;transform:translateY(0)}49%,100%{opacity:0;transform:translateY(-12px)}}
+    @keyframes focus3{0%,49%{opacity:0;transform:translateY(16px)}54%,70%{opacity:1;transform:translateY(0)}74%,100%{opacity:0;transform:translateY(-12px)}}
+    @keyframes focus4{0%,74%{opacity:0;transform:translateY(16px)}79%,95%{opacity:1;transform:translateY(0)}99%,100%{opacity:0;transform:translateY(-12px)}}
+    .node{transform-box:fill-box;transform-origin:center}.node1{animation:node1 20s ease-in-out infinite}.node2{animation:node2 20s ease-in-out infinite}.node3{animation:node3 20s ease-in-out infinite}.node4{animation:node4 20s ease-in-out infinite}
+    @keyframes node1{0%,2%{opacity:.56;transform:scale(.97)}6%,20%{opacity:1;transform:scale(1.04)}24%,100%{opacity:.56;transform:scale(.97)}}
+    @keyframes node2{0%,24%{opacity:.56;transform:scale(.97)}29%,45%{opacity:1;transform:scale(1.04)}49%,100%{opacity:.56;transform:scale(.97)}}
+    @keyframes node3{0%,49%{opacity:.56;transform:scale(.97)}54%,70%{opacity:1;transform:scale(1.04)}74%,100%{opacity:.56;transform:scale(.97)}}
+    @keyframes node4{0%,74%{opacity:.56;transform:scale(.97)}79%,95%{opacity:1;transform:scale(1.04)}99%,100%{opacity:.56;transform:scale(.97)}}
+    .active-link{fill:none;stroke:#4DA3FF;stroke-width:2.6;stroke-linecap:round;opacity:0;stroke-dasharray:100;stroke-dashoffset:100;filter:url(#nodeGlow)}
+    .link1{animation:link1 20s cubic-bezier(.4,0,.2,1) infinite}.link2{animation:link2 20s cubic-bezier(.4,0,.2,1) infinite}.link3{animation:link3 20s cubic-bezier(.4,0,.2,1) infinite}.link4{animation:link4 20s cubic-bezier(.4,0,.2,1) infinite}
+    @keyframes link1{0%,2%{opacity:0;stroke-dashoffset:100}6%,12%{opacity:1;stroke-dashoffset:0}20%,24%{opacity:.70;stroke-dashoffset:0}27%,100%{opacity:0;stroke-dashoffset:100}}
+    @keyframes link2{0%,25%{opacity:0;stroke-dashoffset:100}30%,36%{opacity:1;stroke-dashoffset:0}44%,49%{opacity:.70;stroke-dashoffset:0}52%,100%{opacity:0;stroke-dashoffset:100}}
+    @keyframes link3{0%,50%{opacity:0;stroke-dashoffset:100}55%,61%{opacity:1;stroke-dashoffset:0}69%,74%{opacity:.70;stroke-dashoffset:0}77%,100%{opacity:0;stroke-dashoffset:100}}
+    @keyframes link4{0%,75%{opacity:0;stroke-dashoffset:100}80%,86%{opacity:1;stroke-dashoffset:0}94%,98%{opacity:.70;stroke-dashoffset:0}100%{opacity:0;stroke-dashoffset:100}}
+    .core-ring{animation:corePulse 4.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes corePulse{0%,100%{opacity:.22;transform:scale(.92)}50%{opacity:.70;transform:scale(1.08)}}
+    .traveler1{animation:traveler1 20s linear infinite}.traveler2{animation:traveler2 20s linear infinite}.traveler3{animation:traveler3 20s linear infinite}.traveler4{animation:traveler4 20s linear infinite}
+    @keyframes traveler1{0%,4%{opacity:0;transform:translate(0,0)}7%{opacity:1}15%{opacity:1;transform:translate(-143px,-88px)}18%,100%{opacity:0;transform:translate(-143px,-88px)}}
+    @keyframes traveler2{0%,29%{opacity:0;transform:translate(0,0)}32%{opacity:1}40%{opacity:1;transform:translate(-143px,91px)}43%,100%{opacity:0;transform:translate(-143px,91px)}}
+    @keyframes traveler3{0%,54%{opacity:0;transform:translate(0,0)}57%{opacity:1}65%{opacity:1;transform:translate(151px,-88px)}68%,100%{opacity:0;transform:translate(151px,-88px)}}
+    @keyframes traveler4{0%,79%{opacity:0;transform:translate(0,0)}82%{opacity:1}90%{opacity:1;transform:translate(151px,91px)}93%,100%{opacity:0;transform:translate(151px,91px)}}
+    @media (prefers-reduced-motion:reduce){.ambient-a,.ambient-b,.scan,.focus,.node,.active-link,.core-ring,.traveler1,.traveler2,.traveler3,.traveler4{animation:none!important}.focus1{opacity:1;transform:none}.focus2,.focus3,.focus4{opacity:0}.node1{opacity:1;transform:scale(1.04)}.node2,.node3,.node4{opacity:.56;transform:scale(.97)}.link1{opacity:1;stroke-dashoffset:0}.link2,.link3,.link4{opacity:0}}
+  ]]></style>
+</defs>
+<g class="root">
+  <rect x="16" y="16" width="1168" height="328" rx="30" fill="url(#bgGrad)" stroke="#263244" stroke-width="1.2" filter="url(#cardShadow)"/>
+  <g clip-path="url(#clip)">
+    <rect x="16" y="16" width="1168" height="328" fill="url(#grid)" opacity=".54"/>
+    <circle class="ambient-a" cx="1045" cy="72" r="220" fill="url(#glowBlue)" filter="url(#blur24)"/>
+    <circle class="ambient-b" cx="895" cy="315" r="195" fill="url(#glowViolet)" filter="url(#blur24)"/>
+    <rect class="scan" x="-420" y="-60" width="180" height="490" fill="url(#scanGrad)" filter="url(#blur8)"/>
+    <g transform="translate(68 62)">
+      <text x="0" y="0" fill="#96A3B5" font-size="14" font-weight="650" letter-spacing="2.7">RAYMOND ARTEAGA</text>
+      <text x="0" y="52" fill="#F5F7FA" font-size="39" font-weight="760" letter-spacing="-1.2">Informatics Engineer</text>
+      <text x="0" y="82" fill="#96A3B5" font-size="16.2" font-weight="470">Applied AI, automation, software systems and physical computing.</text>
+      <g transform="translate(0 126)">
+        <rect x="0" y="0" width="600" height="88" rx="18" fill="#0E151E" fill-opacity=".73" stroke="#263244" stroke-width="1"/>
+        <rect x="0" y="0" width="4" height="88" rx="2" fill="#4DA3FF"/>
+        <text x="28" y="31" fill="#96A3B5" font-size="11.5" font-weight="700" letter-spacing="2.1">CURRENT FOCUS</text>
+        <g transform="translate(28 62)">
+          <text class="focus focus1" x="0" y="0" fill="#F5F7FA" font-size="22.5" font-weight="690">Applied AI &amp; Enterprise Agents</text>
+          <text class="focus focus2" x="0" y="0" fill="#F5F7FA" font-size="22.5" font-weight="690">Automation &amp; Digital Operations</text>
+          <text class="focus focus3" x="0" y="0" fill="#F5F7FA" font-size="22.5" font-weight="690">Software Engineering</text>
+          <text class="focus focus4" x="0" y="0" fill="#F5F7FA" font-size="22.5" font-weight="690">Robotics &amp; Embedded Systems</text>
+        </g>
+      </g>
+      <text x="0" y="254" fill="#6C7A90" font-size="12.6" font-weight="560" letter-spacing=".9">AI  /  AUTOMATION  /  SOFTWARE  /  ROBOTICS</text>
+    </g>
+    <g>
+      <path d="M944 180 C907 154 863 121 801 91" fill="none" stroke="#334155" stroke-width="1.2"/>
+      <path d="M944 180 C900 200 850 232 801 271" fill="none" stroke="#334155" stroke-width="1.2"/>
+      <path d="M944 180 C987 150 1037 118 1095 91" fill="none" stroke="#334155" stroke-width="1.2"/>
+      <path d="M944 180 C989 205 1041 235 1095 271" fill="none" stroke="#334155" stroke-width="1.2"/>
+      <path class="active-link link1" pathLength="100" d="M944 180 C907 154 863 121 801 91"/>
+      <path class="active-link link2" pathLength="100" d="M944 180 C900 200 850 232 801 271"/>
+      <path class="active-link link3" pathLength="100" d="M944 180 C987 150 1037 118 1095 91"/>
+      <path class="active-link link4" pathLength="100" d="M944 180 C989 205 1041 235 1095 271"/>
+      <circle class="core-ring" cx="944" cy="180" r="34" fill="none" stroke="#4DA3FF" stroke-opacity=".65" stroke-width="1.5"/>
+      <circle cx="944" cy="180" r="24" fill="#111925" stroke="#4DA3FF" stroke-opacity=".75" stroke-width="1.4"/>
+      <circle cx="944" cy="180" r="7" fill="#EAF3FF"/>
+      <text x="944" y="218" text-anchor="middle" fill="#96A3B5" font-size="10.5" font-weight="700" letter-spacing="1.5">SYSTEMS</text>
+      <circle class="traveler1" cx="944" cy="180" r="4.3" fill="#4DA3FF" filter="url(#nodeGlow)"/>
+      <circle class="traveler2" cx="944" cy="180" r="4.3" fill="#4DA3FF" filter="url(#nodeGlow)"/>
+      <circle class="traveler3" cx="944" cy="180" r="4.3" fill="#7C6CFF" filter="url(#nodeGlow)"/>
+      <circle class="traveler4" cx="944" cy="180" r="4.3" fill="#7C6CFF" filter="url(#nodeGlow)"/>
+      <g class="node node1"><rect x="744" y="61" width="114" height="58" rx="15" fill="#17202C" stroke="#4DA3FF" stroke-opacity=".66" stroke-width="1.3"/><circle cx="770" cy="90" r="6" fill="#4DA3FF"/><text x="788" y="95" fill="#F5F7FA" font-size="14" font-weight="720">AI</text></g>
+      <g class="node node2"><rect x="718" y="242" width="166" height="58" rx="15" fill="#17202C" stroke="#4DA3FF" stroke-opacity=".66" stroke-width="1.3"/><circle cx="744" cy="271" r="6" fill="#4DA3FF"/><text x="762" y="276" fill="#F5F7FA" font-size="13.5" font-weight="720">AUTOMATION</text></g>
+      <g class="node node3"><rect x="1045" y="61" width="138" height="58" rx="15" fill="#17202C" stroke="#7C6CFF" stroke-opacity=".66" stroke-width="1.3"/><circle cx="1071" cy="90" r="6" fill="#7C6CFF"/><text x="1089" y="95" fill="#F5F7FA" font-size="13.5" font-weight="720">SOFTWARE</text></g>
+      <g class="node node4"><rect x="1045" y="242" width="138" height="58" rx="15" fill="#17202C" stroke="#7C6CFF" stroke-opacity=".66" stroke-width="1.3"/><circle cx="1071" cy="271" r="6" fill="#7C6CFF"/><text x="1089" y="276" fill="#F5F7FA" font-size="13.5" font-weight="720">ROBOTICS</text></g>
+    </g>
+  </g>
+  <rect x="16.7" y="16.7" width="1166.6" height="326.6" rx="29.3" fill="none" stroke="#4DA3FF" stroke-opacity=".10" stroke-width="1"/>
+</g>
+</svg>

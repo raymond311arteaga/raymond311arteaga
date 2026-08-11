@@ -2,130 +2,137 @@
 
 # Raymond Arteaga
 
-### Ingeniero en Informática | IA aplicada, automatización, ingeniería de software y robótica
+### Ingeniero en Informática | IA aplicada | Automatización | Ingeniería de Software | Robótica
 
-Diseño y construyo sistemas digitales que integran inteligencia artificial, automatización de procesos, datos, software y computación física.
+Diseño y construyo sistemas prácticos que conectan inteligencia artificial, automatización, software, datos y computación física.
 
-[LinkedIn](https://www.linkedin.com/in/raymond-arteaga-7a6523308) ·
-[UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system) ·
-[Laboratorio de Innovación CAF](https://github.com/lab-innov) ·
-[SILEX AI Consulting](https://github.com/silex-ai-consulting) ·
-[Read in English](./README.md)
+[LinkedIn](https://www.linkedin.com/in/raymond-arteaga-7a6523308) · [UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system) · [CAF Innovation Lab](https://github.com/lab-innov) · [SILEX AI Consulting](https://github.com/silex-ai-consulting) · [English](./README.md)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
+  <img alt="Raymond Arteaga — IA aplicada, automatización, ingeniería de software y robótica" src="./assets/profile-banner-light.svg">
+</picture>
 
 </div>
+
+## Stack tecnológico
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" title="Dart">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg" width="42" height="42" alt="C sharp" title="C sharp">
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000">
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="42" height="42" alt="Next.js" title="Next.js">
+</picture>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/angularjs/angularjs-original.svg" width="42" height="42" alt="Angular" title="Angular">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" title="Flutter">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" title="Firebase">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" title=".NET">
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/arduino/arduino-original.svg" width="42" height="42" alt="Arduino" title="Arduino">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/raspberrypi/raspberrypi-original.svg" width="42" height="42" alt="Raspberry Pi" title="Raspberry Pi">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" title="GitHub">
+</picture>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/gitlab/gitlab-original.svg" width="42" height="42" alt="GitLab" title="GitLab">
+
+</div>
+
+## Impacto seleccionado
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>30+</strong><br>iniciativas de agentes institucionales</td>
+<td align="center" width="25%"><strong>3.456</strong><br>usos de una experiencia inmersiva del Maratón CAF 2026</td>
+<td align="center" width="25%"><strong>Mención honorífica</strong><br>Trabajo de Grado de Ingeniería Informática</td>
+<td align="center" width="25%"><strong>5 capas integradas</strong><br>en el sistema ciberfísico UCABot</td>
+</tr>
+</table>
 
 ---
 
 ## Perfil profesional
 
-Soy Ingeniero en Informática egresado de la Universidad Católica Andrés Bello, con experiencia en IA aplicada, automatización empresarial, desarrollo full-stack, robótica, sistemas embebidos y tecnologías inmersivas.
+Soy Ingeniero en Informática egresado de la **Universidad Católica Andrés Bello**, con experiencia en IA aplicada, automatización empresarial, desarrollo full-stack, sistemas geoespaciales, robótica, sistemas embebidos y tecnologías inmersivas.
 
-En el Laboratorio de Innovación de CAF he participado en agentes institucionales de IA, soluciones sobre Microsoft 365, marketplaces internos, automatizaciones operativas, formación digital, experiencias inmersivas e iniciativas de innovación. También soy fundador y Lead Developer de SILEX AI Consulting y autor de UCABot, mi Trabajo de Grado aprobado con mención honorífica.
+Mi trabajo abarca agentes institucionales de IA, soluciones sobre Microsoft 365, automatizaciones operativas, productos web y móviles, experiencias basadas en datos y sistemas ciberfísicos. También soy fundador y Lead Developer de **SILEX AI Consulting** y autor de **UCABot**, mi Trabajo de Grado aprobado con mención honorífica.
 
-## Áreas de trabajo
-
-```mermaid
-flowchart LR
-    R["Raymond Arteaga"]
-    R --> AI["IA aplicada y agentes empresariales"]
-    R --> AUT["Automatización y Microsoft 365"]
-    R --> SWE["Sistemas web, móviles y backend"]
-    R --> ROB["Robótica y sistemas embebidos"]
-    R --> IMM["Experiencias inmersivas y geoespaciales"]
-```
-
-## Impacto seleccionado
-
-| Área | Evidencia |
-|---|---|
-| IA aplicada | Participación en el diseño, desarrollo, evolución o despliegue de más de 30 iniciativas de agentes institucionales |
-| Automatización empresarial | Soluciones con Copilot Studio, Power Automate, SharePoint, Excel, Office Scripts, Teams y Power BI |
-| Tecnologías inmersivas | Participación en la virtualización de la sede CAF Caracas y en una experiencia del Maratón CAF 2026 utilizada por 3.456 personas |
-| Robótica | Diseño e integración de UCABot en sus capas móvil, backend, edge, embebida y física |
-| Reconocimiento académico | Trabajo de Grado de Ingeniería Informática defendido el 17 de julio de 2026 y aprobado con mención honorífica |
-| Emprendimiento | Fundador y Lead Developer de SILEX AI Consulting |
+---
 
 ## Experiencia profesional
 
 ### Laboratorio de Innovación CAF
 
-Entre agosto de 2025 y julio de 2026 trabajé en iniciativas de IA aplicada, automatización, gestión del conocimiento e innovación inmersiva para distintas áreas institucionales.
+Entre **agosto de 2025 y julio de 2026**, contribuí en iniciativas de IA aplicada, automatización, gestión del conocimiento e innovación inmersiva para distintas áreas institucionales.
 
-Entre mis contribuciones representativas se encuentran:
+Mi trabajo incluyó **más de 30 iniciativas de agentes institucionales**, un marketplace interno de agentes en SharePoint, automatizaciones end-to-end para pagos, contrataciones y horas adicionales, habilitación sobre Copilot e IA responsable e iniciativas inmersivas como la virtualización de la sede CAF Caracas. Una experiencia inmersiva del Maratón CAF 2026 en la que participé fue utilizada por **3.456 personas**.
 
-- participación en más de 30 iniciativas de agentes institucionales;
-- desarrollo del marketplace interno de agentes en SharePoint;
-- automatizaciones end-to-end para pagos, contrataciones y horas adicionales;
-- sesiones sobre Copilot, prompting, creación de agentes e IA responsable;
-- virtualización de la sede CAF Caracas con Matterport y Captur3D;
-- pruebas, documentación, publicación y soporte operativo con equipos de negocio y tecnología.
-
-El perfil público de la organización se encuentra en [github.com/lab-innov](https://github.com/lab-innov). Sus repositorios operativos permanecen privados porque contienen trabajo institucional.
+[Laboratorio de Innovación CAF en GitHub](https://github.com/lab-innov) — los repositorios operativos permanecen privados porque contienen trabajo institucional.
 
 ### SILEX AI Consulting
 
-Fundé SILEX para desarrollar productos digitales, IA aplicada, automatización y experiencias web para organizaciones.
+Fundé **SILEX AI Consulting** para desarrollar productos digitales, soluciones de IA aplicada, automatización y experiencias web para organizaciones.
 
-Proyectos públicos seleccionados:
+[SILEX Web](https://github.com/silex-ai-consulting/silex-web) · [Cerámica Carabobo](https://github.com/silex-ai-consulting/ceramica-carabobo) · [Arenera Solichiata](https://github.com/silex-ai-consulting/arenera-solichiata) · [Organización](https://github.com/silex-ai-consulting)
 
-- [SILEX Web](https://github.com/silex-ai-consulting/silex-web)
-- [Cerámica Carabobo](https://github.com/silex-ai-consulting/ceramica-carabobo)
-- [Arenera Solichiata](https://github.com/silex-ai-consulting/arenera-solichiata)
+---
 
-[Abrir la organización SILEX](https://github.com/silex-ai-consulting)
+## Proyecto destacado: UCABot
 
-## Proyecto destacado
+### Sistema Automatizado de Reparto para Campus
 
-### UCABot — Sistema Automatizado de Reparto para Campus
+**UCABot** es mi Trabajo de Grado de Ingeniería Informática con mención honorífica y mi principal proyecto técnico público: un sistema ciberfísico distribuido que conecta software móvil, servicios en la nube, computación edge, firmware embebido y un robot físico.
 
-Portafolio técnico bilingüe de un sistema ciberfísico distribuido que integra:
+<p align="center">
+  <a href="https://github.com/raymond311arteaga/ucabot-automated-delivery-system">
+    <img src="https://raw.githubusercontent.com/raymond311arteaga/ucabot-automated-delivery-system/main/assets/images/ucabito-outdoor.png" width="72%" alt="Prototipo físico de UCABot">
+  </a>
+</p>
 
-- aplicación Android en Flutter;
-- backend modular en NestJS y Firebase;
-- agente de coordinación en Python sobre Raspberry Pi;
-- firmware C/C++ para Arduino Mega;
-- prototipo físico fabricado en PETG.
+| Capa | Implementación |
+|---|---|
+| **Móvil** | Aplicación Android en Flutter |
+| **Backend** | NestJS y Firebase |
+| **Edge** | Agente de coordinación en Python sobre Raspberry Pi |
+| **Embebida** | Firmware C/C++ sobre Arduino Mega |
+| **Física** | Prototipo en PETG con GPS, encoders, sensores ultrasónicos y servos |
 
-El Trabajo de Grado fue defendido el 17 de julio de 2026 y recibió mención honorífica.
+El Trabajo de Grado fue defendido el **17 de julio de 2026** y recibió **mención honorífica**.
 
-[Abrir el portafolio técnico de UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system)
+[Explorar el portafolio técnico de UCABot](https://github.com/raymond311arteaga/ucabot-automated-delivery-system)
+
+---
 
 ## Capacidades técnicas
 
 | Dominio | Tecnologías y prácticas |
 |---|---|
-| IA aplicada y automatización | Copilot, Copilot Studio, Power Automate, SharePoint, Microsoft 365, Excel, Office Scripts, Power BI |
-| Lenguajes | TypeScript, JavaScript, Python, Dart, C/C++, Java, C#, SQL |
-| Web y backend | React, Next.js, Angular, NestJS, Node.js, .NET, REST, Swagger/OpenAPI |
-| Móvil y nube | Flutter, Firebase Authentication, Firestore |
-| Robótica y sistemas embebidos | Raspberry Pi, Arduino Mega, PlatformIO, GPS, encoders, sensores ultrasónicos, protocolos seriales |
-| Datos y visualización | Leaflet, React Leaflet, GeoJSON, OpenStreetMap, Recharts |
-| Tecnologías inmersivas | Matterport, Captur3D, Orbix 360 y SketchUp |
-| Flujo de ingeniería | Git, GitHub, GitLab, GitFlow, ramas feature, pull requests, GitHub Actions, Jira, pruebas unitarias y end-to-end |
-
-## Enfoque de ingeniería
-
-Valoro:
-
-- separación clara de responsabilidades;
-- arquitecturas adecuadas a la escala real del problema;
-- decisiones trazables y alcance técnico honesto;
-- desarrollo incremental y mejora continua;
-- soluciones comprensibles, mantenibles y demostrables.
-
-## Dirección profesional
-
-Me interesan oportunidades y colaboraciones relacionadas con:
-
-- IA aplicada y agentes empresariales;
-- automatización y transformación digital;
-- arquitectura de software y productos full-stack;
-- robótica y sistemas ciberfísicos;
-- innovación que conecte software, hardware y datos.
-
-## Contacto
-
-- LinkedIn: [linkedin.com/in/raymond-arteaga-7a6523308](https://www.linkedin.com/in/raymond-arteaga-7a6523308)
-- GitHub: [github.com/raymond311arteaga](https://github.com/raymond311arteaga)
-- Laboratorio de Innovación CAF: [github.com/lab-innov](https://github.com/lab-innov)
-- SILEX AI Consulting: [github.com/silex-ai-consulting](https://github.com/silex-ai-consulting)
+| **IA aplicada y automatización** | Copilot, Copilot Studio, Power Automate, SharePoint, Microsoft 365, Excel, Office Scripts, Power BI |
+| **Lenguajes** | TypeScript, JavaScript, Python, Dart, C/C++, Java, C#, SQL |
+| **Web y backend** | React, Next.js, Angular, NestJS, Node.js, .NET, REST, Swagger/OpenAPI |
+| **Móvil y nube** | Flutter, Firebase Authentication, Firestore |
+| **Robótica y sistemas embebidos** | Raspberry Pi, Arduino Mega, PlatformIO, GPS, encoders, sensores ultrasónicos, protocolos seriales |
+| **Datos y visualización** | Leaflet, React Leaflet, GeoJSON, OpenStreetMap, Recharts |
+| **Tecnologías inmersivas** | Matterport, Captur3D, Orbix 360, SketchUp |
+| **Flujo de ingeniería** | Git, GitHub, GitLab, GitFlow, ramas feature, pull requests, GitHub Actions, Jira, pruebas unitarias y end-to-end |
